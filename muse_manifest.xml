@@ -1,0 +1,99 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="beatsleng.github.io" resolutions="1x" timestamp="1519296896170">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4277222698" ref="index"/>
+    <file name="nomq_index.css" crc="219873410" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="праздники,корпоративы-favicon.ico" crc="3763821969" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="looogo (1).png" crc="4283909531" ref="index"/>
+    <file name="wave.png" crc="481938439" ref="index"/>
+    <file name="wave-down.png" crc="4197219086" ref="index"/>
+    <file name="o-sebe (1).png" crc="3910089980" ref="index"/>
+    <file name="1 bk gallery-min.jpg" crc="442936611" seo="true" ref="index"/>
+    <file name="2 bk galery -min.jpg" crc="3791057209" seo="true" ref="index"/>
+    <file name="3 vedushiy-min.jpg" crc="4200627290" seo="true" ref="index"/>
+    <file name="4 dets bk-min.jpg" crc="4070250250" seo="true" ref="index"/>
+    <file name="5 bk gallery-min.jpg" crc="104669387" seo="true" ref="index"/>
+    <file name="6 mini nk gareele-min.jpg" crc="260081894" seo="true" ref="index"/>
+    <file name="7 trio gallery-min.jpg" crc="4074612125" seo="true" ref="index"/>
+    <file name="8 impro gallery-min.jpg" crc="4259989880" seo="true" ref="index"/>
+    <file name="1 bk gallery-min-crop-u28126.jpg" crc="3889589450" ref="index"/>
+    <file name="2 bk galery -min-crop-u28370.jpg" crc="320068433" ref="index"/>
+    <file name="3 vedushiy-min-crop-u28429.jpg" crc="3875045209" ref="index"/>
+    <file name="4 dets bk-min-crop-u28488.jpg" crc="4248750571" ref="index"/>
+    <file name="5 bk gallery-min-crop-u28547.jpg" crc="4222964061" ref="index"/>
+    <file name="6 mini nk gareele-min-crop-u28606.jpg" crc="329553637" ref="index"/>
+    <file name="7 trio gallery-min-crop-u28665.jpg" crc="4058386841" ref="index"/>
+    <file name="8 impro gallery-min-crop-u28724.jpg" crc="4050876715" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="david-contact.png" crc="137952173" ref="index"/>
+    <file name="instagram.png" crc="260457741" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index"/>
+    <file name="vk.png" crc="305748232" ref="index"/>
+    <file name="youtube.png" crc="442611654" ref="index"/>
+    <file name="david-barabanist-min-2-min2-min.jpg" crc="4106118249" ref="index"/>
+    <file name="1 bk gallery-min-crop-u281262.jpg" crc="429601815" ref="index"/>
+    <file name="2 bk galery -min-crop-u283702.jpg" crc="3842659347" ref="index"/>
+    <file name="3 vedushiy-min-crop-u284292.jpg" crc="475531406" ref="index"/>
+    <file name="4 dets bk-min-crop-u284882.jpg" crc="3808642318" ref="index"/>
+    <file name="5 bk gallery-min-crop-u285472.jpg" crc="3954923542" ref="index"/>
+    <file name="6 mini nk gareele-min-crop-u286062.jpg" crc="211481872" ref="index"/>
+    <file name="7 trio gallery-min-crop-u286652.jpg" crc="4080949508" ref="index"/>
+    <file name="8 impro gallery-min-crop-u287242.jpg" crc="3901933305" ref="index"/>
+    <file name="1 bk gallery-min-crop-u28108.jpg" crc="130763621" ref="index"/>
+    <file name="2 bk galery -min-crop-u28353.jpg" crc="4264609835" ref="index"/>
+    <file name="3 vedushiy-min-crop-u28412.jpg" crc="3842198938" ref="index"/>
+    <file name="4 dets bk-min-crop-u28471.jpg" crc="356404431" ref="index"/>
+    <file name="5 bk gallery-min-crop-u28530.jpg" crc="3957124117" ref="index"/>
+    <file name="6 mini nk gareele-min-crop-u28589.jpg" crc="53789837" ref="index"/>
+    <file name="7 trio gallery-min-crop-u28648.jpg" crc="3767139638" ref="index"/>
+    <file name="8 impro gallery-min-crop-u28707.jpg" crc="507986100" ref="index"/>
+    <file name="1 bk gallery-min-crop-u281263.jpg" crc="4067090278" ref="index"/>
+    <file name="2 bk galery -min-crop-u283703.jpg" crc="4004840200" ref="index"/>
+    <file name="3 vedushiy-min-crop-u284293.jpg" crc="3787351870" ref="index"/>
+    <file name="4 dets bk-min-crop-u284883.jpg" crc="3862375583" ref="index"/>
+    <file name="5 bk gallery-min-crop-u285473.jpg" crc="501767932" ref="index"/>
+    <file name="6 mini nk gareele-min-crop-u286063.jpg" crc="510808726" ref="index"/>
+    <file name="7 trio gallery-min-crop-u286653.jpg" crc="128221212" ref="index"/>
+    <file name="8 impro gallery-min-crop-u287243.jpg" crc="156238528" ref="index"/>
+    <file name="david-barabanist-min-2-min2-min1536x600.jpg" crc="4054831204" ref="index"/>
+    <file name="1 bk gallery-min299x199.jpg" crc="3763271285" seo="true" ref="index"/>
+    <file name="2 bk galery -min299x199.jpg" crc="249154991" seo="true" ref="index"/>
+    <file name="3 vedushiy-min299x199.jpg" crc="466518127" seo="true" ref="index"/>
+    <file name="4 dets bk-min310x199.jpg" crc="4152217188" seo="true" ref="index"/>
+    <file name="5 bk gallery-min299x199.jpg" crc="4008103235" seo="true" ref="index"/>
+    <file name="6 mini nk gareele-min299x199.jpg" crc="292817051" seo="true" ref="index"/>
+    <file name="7 trio gallery-min311x199.jpg" crc="101677591" seo="true" ref="index"/>
+    <file name="8 impro gallery-min298x199.jpg" crc="471586894" seo="true" ref="index"/>
+    <file name="1 bk gallery-min-crop-u281264.jpg" crc="10806665" ref="index"/>
+    <file name="2 bk galery -min-crop-u283704.jpg" crc="3919931975" ref="index"/>
+    <file name="3 vedushiy-min-crop-u284294.jpg" crc="499023450" ref="index"/>
+    <file name="4 dets bk-min-crop-u284884.jpg" crc="378417184" ref="index"/>
+    <file name="5 bk gallery-min-crop-u285474.jpg" crc="404273300" ref="index"/>
+    <file name="6 mini nk gareele-min-crop-u286064.jpg" crc="65055343" ref="index"/>
+    <file name="7 trio gallery-min-crop-u286654.jpg" crc="4154218959" ref="index"/>
+    <file name="8 impro gallery-min-crop-u287244.jpg" crc="160220998" ref="index"/>
+    <file name="david-barabanist-min-2-min2-min960x375.jpg" crc="3759967067" ref="index"/>
+    <file name="barabanist-mobile.jpg" crc="289493834" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3993785204" seo="true" mt="1517874748398" redirect="true"/>
+</manifest>
